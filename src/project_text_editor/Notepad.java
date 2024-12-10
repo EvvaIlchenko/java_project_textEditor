@@ -1,3 +1,6 @@
+// Ільченко (Клочко) Єва, 3 курс, комп мат 2га група, Проект 8.TextEditor
+// дата здачі проету 10.12 10:20
+
 package project_text_editor;
 
 import java.awt.BorderLayout;
