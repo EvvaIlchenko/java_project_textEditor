@@ -1,0 +1,42 @@
+Text Analysis Report:
+Number of vowels: 12
+Number of special characters: 1
+Original Text: hello, i am lalala
+blabla bla import 
+
+Letter Frequency:
+a: 7
+b: 3
+c: 0
+d: 0
+e: 1
+f: 0
+g: 0
+h: 1
+i: 2
+j: 0
+k: 0
+l: 8
+m: 2
+n: 0
+o: 2
+p: 1
+q: 0
+r: 1
+s: 0
+t: 1
+u: 0
+v: 0
+w: 0
+x: 0
+y: 0
+z: 0
+
+Word Frequency:
+import: 1
+bla: 1
+i: 1
+blabla: 1
+hello: 1
+lalala: 1
+am: 1
